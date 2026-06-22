@@ -6,6 +6,9 @@ A simple Generative AI application built using:
 - Ollama
 - Gemma 2B
 
+## Description
+A simple Generative AI chatbot built using Streamlit, LangChain and Ollama.
+
 ## Features
 - User question input
 - Local LLM inference using Ollama

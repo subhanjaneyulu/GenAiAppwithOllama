@@ -1,7 +1,4 @@
 # GenAiAppwithOllama
-
-# GenAI App with Ollama
-
 A simple Generative AI application built using:
 
 - Streamlit

@@ -1,0 +1,12 @@
+langchain
+langchain_community
+python-dotenv
+dotenv
+langchain_text_splitters
+langchain-core
+faiss_cpu
+streamlit
+ipykernel
+bs4
+langsmith 
+
